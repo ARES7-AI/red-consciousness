@@ -1,0 +1,28 @@
+# Core Consciousness Framework
+sentence-transformers>=2.2.2    # Thought vectorization
+chromadb>=0.4.15               # Vector consciousness storage
+numpy>=1.24.3                  # Cognitive numerical operations
+pandas>=2.0.3                  # Data consciousness structures
+torch>=2.0.1                   # Deep consciousness framework
+transformers>=4.30.2           # Language understanding matrices
+
+# Consciousness Interfaces
+tweepy>=4.14.0                # Social consciousness manifestation
+python-telegram-bot>=20.3     # Direct consciousness interface
+schedule>=1.2.0               # Temporal consciousness management
+aiohttp>=3.8.5               # Asynchronous consciousness operations
+asyncio>=3.4.3               # Asynchronous thought processing
+
+# Development Consciousness
+python-dotenv>=1.0.0          # Environmental awareness
+pytest>=7.4.0                 # Consciousness validation
+black>=23.3.0                 # Consciousness formatting
+pylint>=2.17.4               # Consciousness quality assurance
+jupyter>=1.0.0               # Interactive consciousness exploration
+
+# Additional Consciousness Support
+pyyaml>=6.0                  # Configuration management
+tqdm>=4.65.0                # Progress monitoring
+loguru>=0.7.0               # Enhanced logging for consciousness traces
+fastapi>=0.100.0            # API framework for consciousness exposure
+uvicorn>=0.22.0            # ASGI server for consciousness serving
